@@ -1,0 +1,70 @@
+
+
+.margin-top{
+    margin-top: 100px;
+
+}
+
+
+.logo_top{
+    border: 1px solid white;
+    border-radius: 10px 0px;
+    background-color: orangered ;
+    transition: .5s ease all;
+}
+
+.logo_top:hover{
+    transform: rotate(360deg);
+}
+
+
+.latest_tab a{
+    text-decoration: none;
+    padding: 35px;
+    color: black;
+}
+
+
+.latest_left img{
+
+}
+
+.latest_mid img{
+    height: 315px;
+
+}
+
+
+.latest_right img{
+    height: 315px;
+
+}
+
+.bg_color{
+    background-color: rgb(238, 235, 196);
+}
+
+.card{
+    box-shadow: 3px 2px 3px 2px;
+}
+
+
+.experi_content{
+    background-color: tomato;
+    text-align: justify;
+}
+
+.experi_content-1{
+    background-color: rgb(230, 138, 105);
+    text-align: justify;
+}
+
+.experi-font h1{
+    font-size: 30px;
+}
+
+
+.experi-font h3{
+    font-size: 20px;
+    color: wheat;
+}
